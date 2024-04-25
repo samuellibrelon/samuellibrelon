@@ -6,7 +6,7 @@ Bachelor's Degree in Computer Science | Bacharel em Ciência da Computação
 
 Apr 2023 - Dec 2027
 
-## About me
+## About me 🙋🏽‍♂️
 #### [en]
 Hello! I'm Samuel, a technology enthusiast and software developer. I initially studied 7 semesters of Administration at UFMG but decided to follow my passion for Computer Science.
 
@@ -25,7 +25,7 @@ Tenho uma sólida base em administração, que me proporcionou uma visão abrang
 
 Estou em busca de oportunidades desafiadoras na área de desenvolvimento de software, onde posso aplicar meus conhecimentos e contribuir para projetos significativos. Se você está em busca de um profissional motivado, apaixonado por tecnologia e com habilidades técnicas sólidas, estou disponível para colaborar em projetos interessantes.
 
-## 🎯 Skills | Habilidades 
+## Skills | Habilidades :ninja:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -36,18 +36,18 @@ Estou em busca de oportunidades desafiadoras na área de desenvolvimento de soft
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
 
-## GitHub Stats
+## GitHub Stats 🎯
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuellibrelon&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-## Most used languages | Linguagens mais usadas
+## Most used languages | Linguagens mais usadas 💻
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=samuellibrelon&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-## Tools | Ferramentas
+## Tools | Ferramentas 🛠️
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=css3&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=css3&logoColor=white)
 
 
-## Connect with me | Conecte-se comigo
+## Connect with me | Conecte-se comigo 🌎
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuellibrelon/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samuellibrelon/)
