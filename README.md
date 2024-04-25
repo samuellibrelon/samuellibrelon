@@ -25,7 +25,7 @@ Tenho uma sólida base em administração, que me proporcionou uma visão abrang
 
 Estou em busca de oportunidades desafiadoras na área de desenvolvimento de software, onde posso aplicar meus conhecimentos e contribuir para projetos significativos. Se você está em busca de um profissional motivado, apaixonado por tecnologia e com habilidades técnicas sólidas, estou disponível para colaborar em projetos interessantes.
 
-## Skills | Habilidades :ninja:
+## Skills | Habilidades 🧠
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
