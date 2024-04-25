@@ -1,7 +1,8 @@
 # Samuel Librelon
 
 ## Education 📚
-Bacharelor's degree in Computer Science | Bacharel em Ciência da Computação - IFNMG (Campus Montes Claros)
+### IFNMG - Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais
+Bacharelor's degree in Computer Science | Bacharel em Ciência da Computação
 
 Apr 2023 - Dec 2027
 
